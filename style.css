@@ -1,0 +1,80 @@
+style.css
+selector {         /* Select elements of your page */
+  property: value; /* Design a first property */
+	property: value; /* Then a second */
+	property: value; /* Etc... */
+
+
+
+
+
+}
+
+h1 {
+  color: red;
+	font-size: 20px;
+	font-family: Courier;
+
+}
+
+
+h2 {
+  color: red;
+	font-size: 16px;
+	font-family: Courier;
+} 
+
+p {
+  color: grey;
+	font-size: 16px;
+	font-family: Courier;
+} 
+.container{
+	text-align : center;
+/*	font-size : 100px;
+*/
+
+}
+
+li{
+	color: red;
+	font-size: 16px;
+	font-family: Courier;
+
+}
+
+img{
+	border-radius : 50%;
+}
+
+.me{
+		background-color : rgba(0,0,0,0.1);
+	margin : 0px auto;
+	width: 700px; 
+		font-size: 16px;
+
+}
+
+.studies {
+		background-color : rgba(0,0,0,0.1);
+	margin : 0px auto;
+	width: 700px; 
+		font-size: 16px;
+
+}
+
+.learn{
+		background-color : rgba(0,0,0,0.1);
+	margin : 0px auto;
+	width: 700px; 
+		font-size: 16px;
+
+}
+
+.contact{
+		text-decoration: none;
+	list-style: none;
+	color : grey;
+		font-size: 16px;
+
+}
